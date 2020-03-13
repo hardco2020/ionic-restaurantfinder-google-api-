@@ -1,7 +1,0 @@
-{
-  "name": "restaurantfinder",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
