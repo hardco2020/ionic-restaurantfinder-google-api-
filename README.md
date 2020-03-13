@@ -25,7 +25,7 @@ Sharing how to use google api in ionic project and some easy extra features
 - Google Map Javascript API
 - Ionic Geolocation API
 
-Most function and changes are at src/app/home/home.page.html && home.page.ts
+Most function and changes are at [home.page.html](https://github.com/hardco2020/ionic-restaurantfinder-google-api-/blob/master/src/app/home/home.page.html) && [home.page.ts](https://github.com/hardco2020/ionic-restaurantfinder-google-api-/blob/master/src/app/home/home.page.ts)
 And the annotation is also in the file
 
 --------------------------------------
