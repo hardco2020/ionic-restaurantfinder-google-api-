@@ -12,5 +12,18 @@ Sharing how to use google api in ionic project and some easy extra features
 - User can search the restaurant near them and see the address on the screenP
 
 --------------------------------------
+## Preview
 
-##Preview
+![image](https://github.com/hardco2020/ionic-restaurantfinder-google-api-/blob/master/20200313_155012.gif)
+
+--------------------------------------
+
+## Using API && Mainfile
+
+- Google Place API
+- Google Geocode API
+- Google Map Javascript API
+- Ionic Geolocation API
+
+/
+
